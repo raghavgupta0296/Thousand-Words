@@ -1,5 +1,5 @@
 # Thousand-Words
-An immersive Virtual Reality approach to alleviate autism through art therapy.
+AI enhanced Art Therapy through Virtual Reality, to alleviate autism.
 
 # Inspiration
 Despite getting inspired by and lauding famous people who were born with some form of autism, like Albert Einstein and Mozart, Autism is highly stigmatised in our society. Studies suggest that people with autism are often highly visual thinkers, and many report that they “think in pictures”. Expressing feelings and ideas through images is very natural for such people and can be a welcome relief from the daily struggle to use words effectively. 
